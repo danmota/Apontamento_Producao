@@ -1,0 +1,4 @@
+Apontamento.MainActivity, Apontamento;md55f46c751fb78e3b57be4502137be54da.MainActivity
+Apontamento.MainActivity, Apontamento, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55f46c751fb78e3b57be4502137be54da.MainActivity
+Apontamento.MainActivity;md55f46c751fb78e3b57be4502137be54da.MainActivity
+apontamento.MainActivity;md55f46c751fb78e3b57be4502137be54da.MainActivity
